@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GlobleStreets",
-    "currentPage": "tkd.html",
+    "currentPage": "CONTACT.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -42,7 +42,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "20px",
+              "font-size": "18px",
               "color": "#ffffff"
             },
             "SPAN": {
@@ -300,19 +300,19 @@
               "color": "#000000"
             },
             "SMALL": {
-              "color": "#f3c649"
+              "color": "#28324e"
             }
           },
           "_anchor": "form1-f",
           "_params": {
             "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/water4-2000x1221.jpg",
             "bgColor": "#ffffff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
