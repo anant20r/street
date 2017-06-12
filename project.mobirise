@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GlobleStreets",
-    "currentPage": "tkd.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -80,10 +80,10 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/globel%20logo-2000x1777.png",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/water4-2000x1221.jpg",
             "bgColor": "#313131",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -120,7 +120,7 @@
           },
           "title": "<p>WE CAN NOT MAKE SIMPLE LIFE WITHOUT YOU.</p>",
           "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Tughlakabad Ext.</b> <b>WATER</b> <b>TIMING</b> &nbsp;Information we will share with you,Water timing could be effect any reason. Please share water timing on below mention <b>mail id or whatsapp</b> <b>no</b>. so that we can publish the same and share you feedback also.</span></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"tkd.html\" data-toolbar=\"-mbrBtnMove\">Water Timing Tughlakabad Ext.</a>      "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"tkd.html\" data-toolbar=\"-mbrBtnMove\">Water Timing Tughlakabad Ext.</a>      "
         },
         {
           "_styles": {
@@ -213,6 +213,14 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts1-5",
           "_params": {
             "paddingTop": 3,
@@ -244,21 +252,18 @@
           },
           "text1": "<strong>Address</strong><br>Tughlakabad Ext , New Delhi<br>Delhi -110019 India",
           "text2": "<strong>Contacts</strong><br>\nEmail: GlobelStreets@gmail.com<br>SMS: +91- 70-4-20-300-20<br>Whatsapp: +91 -70-4-20 -300-20",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Supported</b></span></font><br>Tughlakabad Ext. Society.<br>Hope Helping Hand Foundatation.<br><br>",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Supported</b></span></font><br>Tughlakabad Ext. Society.<br>Hope Helping Hand Foundatation.<br><br>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "footer1-6",
           "_params": {
             "paddingTop": 2,
@@ -272,12 +277,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 GlobelStreets.",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "Copyright (c) 2017 GlobelStreets."
         }
       ]
     },
@@ -441,6 +441,14 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts1-a",
           "_params": {
             "paddingTop": 3,
@@ -472,21 +480,18 @@
           },
           "text1": "<strong>Address</strong><br>Tughlakabad Ext , New Delhi<br>Delhi -110019 India",
           "text2": "<strong>Contacts</strong><br>\nEmail: GlobelStreets@gmail.com<br>SMS: +91- 70-4-20-300-20<br>Whatsapp: +91 -70-4-20 -300-20",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Supported</b></span></font><br>Tughlakabad Ext. Society.<br>Hope Helping Hand Foundatation.<br><br>",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Supported</b></span></font><br>Tughlakabad Ext. Society.<br>Hope Helping Hand Foundatation.<br><br>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "footer1-b",
           "_params": {
             "paddingTop": 2,
@@ -500,12 +505,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 GlobelStreets.",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "Copyright (c) 2017 GlobelStreets."
         }
       ]
     },
@@ -520,6 +520,14 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead B": {
+              "color": "#f7da64"
+            }
+          },
           "_anchor": "header1-l",
           "_params": {
             "parallax": true,
@@ -542,15 +550,7 @@
           },
           "title": "WATER TIMING",
           "text": "<b>Water timing scheduled date of 11/06/2017 and Share you feedback so that we can improved our web site.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 21 - 22</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">7:00 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 22 - 23</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">8:00 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 23 -24</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">9:00 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 21 -21 (P)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">10:00 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 22 -23 (P)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">11:00 AM</a>                   ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#000000"
-            },
-            ".mbr-section-lead B": {
-              "color": "#f7da64"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 21 - 22</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">7:00 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 22 - 23</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">8:00 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 23 -24</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">9:00 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 21 -21 (P)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">10:00 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 22 -23 (P)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">11:00 AM</a>                   "
         },
         {
           "_styles": {
