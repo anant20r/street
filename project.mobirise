@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GlobleStreets",
-    "currentPage": "index.html",
+    "currentPage": "tkd.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -525,7 +525,7 @@
               "color": "#000000"
             },
             ".mbr-section-lead B": {
-              "color": "#f7da64"
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-l",
