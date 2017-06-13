@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GlobleStreets",
-    "currentPage": "tkd.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -42,7 +42,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "18px",
+              "font-size": "22px",
               "color": "#ffffff"
             },
             "SPAN": {
@@ -56,11 +56,11 @@
           "_anchor": "header3-h",
           "_params": {
             "paddingTop": "6",
-            "paddingBottom": "2",
-            "bgColor": "#28324e",
+            "paddingBottom": "0",
+            "bgColor": "#313131",
             "showMeta": true
           },
-          "title": "There's no point to living life unless, You make history and the best way to make history is to help others.<br><span style=\"font-weight: normal;\">A person has TWO hands, One for helping HIMSELF, The other for helping OTHERS.</span>",
+          "title": "There's no point to living life unless, You make history and the best way to make history is to help others.<br><br>",
           "meta": ""
         },
         {
@@ -119,7 +119,7 @@
             }
           },
           "title": "<p>WE CAN NOT MAKE SIMPLE LIFE WITHOUT YOU.</p>",
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Tughlakabad Ext.</b> <b>WATER</b> <b>TIMING</b> &nbsp;Information we will share with you,Water timing could be effect any reason. Please share water timing on below mention <b>mail id or whatsapp</b> <b>no</b>. so that we can publish the same and share you feedback also.</span></p>",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Tughlakabad Ext.</b> <b>WATER</b> <b>TIMING</b> &nbsp;Information we will share with you,Water timing could be effect any reason. Please share water timing on below mention <b>mail id or whatsapp</b> <b>no</b>. so that we can publish the same and share you feedback also.</span></p><br><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Click Hear for &nbsp;Timing</span></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"tkd.html\" data-toolbar=\"-mbrBtnMove\">Water Timing Tughlakabad Ext.</a>      "
         },
         {
@@ -149,13 +149,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#181818"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#292929!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#313131"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -177,7 +177,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#313131",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -405,7 +405,7 @@
           "_name": "menu",
           "_anchor": "menu-9",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#313131",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -607,7 +607,7 @@
           "_name": "menu",
           "_anchor": "menu-i",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#313131",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
