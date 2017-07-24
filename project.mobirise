@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GlobleStreets",
-    "currentPage": "JoinUs",
+    "currentPage": "tkd.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -320,9 +320,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "COMING SOON -WATER TIMING",
-          "text": "<b>Water timing scheduled date of 11/06/2017 and Share you feedback so that we can improved our web site.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 21 - 22</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">7:00 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 22 - 23</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">8:00 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 23 -24</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">9:00 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 21 -21 (P)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">10:00 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 22 -23 (P)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">11:00 AM</a>                   "
+          "title": "Trail -WATER TIMING",
+          "text": "<b>Water timing scheduled date of 24/07/2017 and Share you feedback so that we can improved our web site.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 18 - 19 (P)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">6:15 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 18 - 19 (M)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">7:15 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 20 (M)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">8:15 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 20 (B)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">9:00 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 21 (M)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">9:45 AM</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 22 (M)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">10:30 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 21 - 21 (P)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">11:15 AM</a>                   "
         },
         {
           "_styles": {
