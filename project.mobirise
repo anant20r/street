@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GlobleStreets",
-    "currentPage": "Feedback",
+    "currentPage": "Members",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1013,7 +1013,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#313131",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1051,7 +1051,15 @@
           },
           "title": "ONE &nbsp;TEAM",
           "text": "WE WANT TO BILUD TEAM FOR SOCIAL WORK IF YOU ARE INTRESTED SO PLEASE JOIN US..",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"JoinUs\" data-toolbar=\"-mbrBtnMove\">JOIN US</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"JoinUs\" data-toolbar=\"-mbrBtnMove\">JOIN US</a>",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
