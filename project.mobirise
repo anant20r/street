@@ -794,6 +794,9 @@
             },
             ".mbr-section-lead B": {
               "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-l",
@@ -816,7 +819,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Trail -WATER TIMING",
+          "title": "Testing is going - WATER TIMING",
           "text": "<b>Water timing scheduled date of 25/07/2017 and Share you feedback so that we can improved our web site.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 5 - 6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">7:30 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">8:30 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 7 1/2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">9:15 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">10:00 AM</a>                          "
         },
