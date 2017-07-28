@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GlobleStreets",
-    "currentPage": "TughlakabadExt",
+    "currentPage": "Members",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -285,7 +285,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 GlobelStreets."
+          "text": "Copyright (c) 2017 GlobelStreets.<br>GlobelStreets is not Responsible for any Inaccuracy in the Data/Time of this Site&nbsp;<br>"
         }
       ]
     },
@@ -554,7 +554,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 GlobelStreets."
+          "text": "Copyright (c) 2017 GlobelStreets.<br>GlobelStreets is not Responsible for any Inaccuracy in the Data/Time of this Site&nbsp;<br>"
         }
       ]
     },
@@ -783,7 +783,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 GlobelStreets."
+          "text": "Copyright (c) 2017 GlobelStreets.<br>GlobelStreets is not Responsible for any Inaccuracy in the Data/Time of this Site&nbsp;<br>"
         }
       ]
     },
@@ -989,7 +989,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 GlobelStreets."
+          "text": "Copyright (c) 2017 GlobelStreets.<br>GlobelStreets is not Responsible for any Inaccuracy in the Data/Time of this Site&nbsp;<br>"
         }
       ]
     },
@@ -1216,7 +1216,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 GlobelStreets."
+          "text": "Copyright (c) 2017 GlobelStreets.<br>GlobelStreets is not Responsible for any Inaccuracy in the Data/Time of this Site&nbsp;<br>"
         }
       ]
     },
@@ -1441,7 +1441,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 GlobelStreets."
+          "text": "Copyright (c) 2017 GlobelStreets.<br>GlobelStreets is not Responsible for any Inaccuracy in the Data/Time of this Site&nbsp;<br>"
         }
       ]
     }
