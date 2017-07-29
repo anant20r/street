@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GlobleStreets",
-    "currentPage": "TughlakabadExt",
+    "currentPage": "Members",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1061,7 +1061,7 @@
             }
           },
           "title": "ONE &nbsp;TEAM",
-          "text": "WE WANT TO BILUD TEAM FOR SOCIAL WORK IF YOU ARE INTRESTED SO PLEASE JOIN US..",
+          "text": "WE WANT TO BUILDUP ONE TEAM FOR SOCIAL WORK IF YOU ARE INTRESTED SO PLEASE JOIN US..",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"JoinUs\" data-toolbar=\"-mbrBtnMove\">JOIN US</a>"
         },
         {
