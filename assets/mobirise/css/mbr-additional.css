@@ -658,6 +658,9 @@ h6,
 #header1-l .mbr-section-title {
   color: #ffffff;
 }
+#header1-l .mbr-section-lead SPAN {
+  color: #ffffff;
+}
 #menu-i .hide-buttons .nav-btn {
   display: none !important;
 }
