@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GlobleStreets",
-    "currentPage": "Members",
+    "currentPage": "TughlakabadExtn",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 54,
+    "uniqCompNum": 58,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -128,7 +128,7 @@
           },
           "title": "<p>WE CAN NOT MAKE SIMPLE LIFE WITHOUT YOU.</p>",
           "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;<b>WATER</b> <b>TIMING</b> &nbsp;Information we will share with you,Water timing could be effect any reason. Please share water timing on below mention <b>whats</b></span><b style=\"font-size: 1.07rem; line-height: 1.5;\">app</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> </span><b style=\"font-size: 1.07rem; line-height: 1.5;\">no</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">. so that we can publish the same and share you feedback also.</span></p><b><i>Coming soon :- Govind Puri, Sangam Vihar</i></b>&nbsp;<br><b>Starting from Tughlakabad Extension&nbsp;</b><br><b><br></b><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Click Hear for &nbsp;Timing</span></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"TughlakabadExt\" data-toolbar=\"-mbrBtnMove\">Water Timing Tughlakabad Ext.</a>      "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"Information\" data-toolbar=\"-mbrBtnMove\">Water Timing Tughlakabad Ext.</a>       "
         },
         {
           "_styles": {
@@ -787,215 +787,6 @@
         }
       ]
     },
-    "TughlakabadExt": {
-      "settings": {
-        "title": "Water Timing of Tughlakabad Ext.",
-        "meta_descr": "",
-        "order": 2
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#eb6b56"
-            },
-            ".mbr-section-lead B": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-lead SPAN": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "header1-l",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/water6-2000x1120.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "Testing is going - WATER TIMING",
-          "text": "<span style=\"font-style: normal;\">Water timing scheduled date of 29/07/2017&nbsp;<br>Please Share WATER TIME on our WhatsApp No. 7042030020 so that we can publish share time on our website.&nbsp;</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 16 -17</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">5:00 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 16 M</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">5:45 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 17 - 18</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">6:30 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 18 - 19 (P)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">7:15 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 18 - 19 M</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">8:15 AM</a>                              "
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#181818"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#292929!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#313131"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-i",
-          "_params": {
-            "bgColor": "#313131",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/globel-logo-144x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Globle Streets</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOPE\">HOPE THE HELPING HANDS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Members\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span>JOIN US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Feedback\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span>FEEDBACK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts1-j",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#313131",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/globel-logo-128x113.png",
-              "width": 128,
-              "active": true,
-              "link": "CONTACT.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>South Delhi, New Delhi<br>Delhi, India&nbsp;<br><br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: GlobelStreets@gmail.com<br>SMS: +91- 70-4-20-300-20<br>Whatsapp: +91 -70-4-20 -300-20",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Supported</b></span></font><br>Tughlakabad Ext.. Society.<br>Hope The Helping Hands&nbsp;<br>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "footer1-k",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#313131",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 GlobelStreets.<br>GlobelStreets is not Responsible for any Inaccuracy in the Data/Time of this Site&nbsp;<br>"
-        }
-      ]
-    },
     "Members": {
       "settings": {
         "title": "GlobelStreets Member",
@@ -1432,6 +1223,420 @@
             }
           },
           "_anchor": "footer1-1g",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#313131",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 GlobelStreets.<br>GlobelStreets is not Responsible for any Inaccuracy in the Data/Time of this Site&nbsp;<br>"
+        }
+      ]
+    },
+    "Information": {
+      "settings": {
+        "title": "GlobelStreets Information",
+        "meta_descr": "Web Page Builder Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1l",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/images%20(3)-2000x1226.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Important Information",
+          "text": "Without you and Me is not possible to make simple life. We have required One Team for social work.<br>It’s a big problem of water time how to make essay. I tell you it’s very essay.<br><b>Take Photo of water time board and share on WhatsApp 7042030020.</b><br>Note :- We have required three Active members from each Street – Like President ,Vice president , Secretary .<br>Interested Member Please click on JoinUs.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"TughlakabadExtn\" data-toolbar=\"-mbrBtnMove\">WATER TIME</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"JoinUs\" data-toolbar=\"-mbrBtnMove\">JOIN US</a>",
+          "_styles": {
+            ".mbr-section-lead B": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#181818"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#292929!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#313131"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1i",
+          "_params": {
+            "bgColor": "#313131",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/globel-logo-144x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Globle Streets</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOPE\">HOPE THE HELPING HANDS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Members\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span>JOIN US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Feedback\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span>FEEDBACK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-1j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#313131",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/globel-logo-128x113.png",
+              "width": 128,
+              "active": true,
+              "link": "CONTACT.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>South Delhi, New Delhi<br>Delhi, India&nbsp;<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: GlobelStreets@gmail.com<br>SMS: +91- 70-4-20-300-20<br>Whatsapp: +91 -70-4-20 -300-20",
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Supported</b></span></font><br>Tughlakabad Ext.. Society.<br>Hope The Helping Hands&nbsp;<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-1k",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#313131",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 GlobelStreets.<br>GlobelStreets is not Responsible for any Inaccuracy in the Data/Time of this Site&nbsp;<br>"
+        }
+      ]
+    },
+    "TughlakabadExtn": {
+      "settings": {
+        "title": "Water Timing of Tughlakabad Ext.",
+        "meta_descr": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#eb6b56"
+            },
+            ".mbr-section-lead B": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-l",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/water6-2000x1120.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Testing is going - WATER TIMING",
+          "text": "<span style=\"font-style: normal;\">Water timing scheduled date of 29/07/2017&nbsp;<br>Please Share WATER TIME on our WhatsApp No. 7042030020 so that we can publish share time on our website.&nbsp;</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 21 M</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">4:00 PM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 22 M</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">4:45 PM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 21 - 21 P</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">5:30 PM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 23 -23 P</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">6:30 PM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 23 P</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">7:30 PM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 22 P</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">8:15 PM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 23 M</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">9:00 PM</a>                              "
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#181818"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#292929!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#313131"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-i",
+          "_params": {
+            "bgColor": "#313131",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/globel-logo-144x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Globle Streets</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOPE\">HOPE THE HELPING HANDS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Members\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span>JOIN US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Feedback\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span>FEEDBACK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#313131",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/globel-logo-128x113.png",
+              "width": 128,
+              "active": true,
+              "link": "CONTACT.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>South Delhi, New Delhi<br>Delhi, India&nbsp;<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: GlobelStreets@gmail.com<br>SMS: +91- 70-4-20-300-20<br>Whatsapp: +91 -70-4-20 -300-20",
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Supported</b></span></font><br>Tughlakabad Ext.. Society.<br>Hope The Helping Hands&nbsp;<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-k",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
