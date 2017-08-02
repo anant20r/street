@@ -1250,6 +1250,17 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead B": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header1-1l",
           "_params": {
             "parallax": true,
@@ -1272,18 +1283,7 @@
           },
           "title": "Important Information",
           "text": "Without you and Me is not possible to make simple life. We have required One Team for social work.<br>It’s a big problem of water time how to make essay. I tell you it’s very essay.<br><b>Take Photo of water time board and share on WhatsApp 7042030020.</b><br>Note :- We have required Active members from each Street&nbsp;<br>Interested for Helping Hands . Please click on JoinUs.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"TughlakabadExtn\" data-toolbar=\"-mbrBtnMove\">WATER TIME</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"JoinUs\" data-toolbar=\"-mbrBtnMove\">JOIN US</a>",
-          "_styles": {
-            ".mbr-section-lead B": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"TughlakabadExtn\" data-toolbar=\"-mbrBtnMove\">WATER TIME</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"JoinUs\" data-toolbar=\"-mbrBtnMove\">JOIN US</a>"
         },
         {
           "_styles": {
@@ -1491,8 +1491,8 @@
             "showButtons": true
           },
           "title": "Testing is going - WATER TIMING",
-          "text": "<span style=\"font-style: normal;\">Water timing scheduled date of 01/08/2017&nbsp;<br>Please Share WATER TIME on our WhatsApp No. 7042030020 so that we can publish share time on our website.&nbsp;</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 23 M</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">6:30 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 24 P</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">7:15 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 24 M</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">7:45 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 25</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">8:30 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 26 P</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">9:15 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 26 P</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">9:45 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 26 M</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">10:15 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 26 B</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">11:00 AM</a>                                    "
+          "text": "<span style=\"font-style: normal;\">Water timing scheduled date of 02/08/2017&nbsp;<br>Please Share WATER TIME on our WhatsApp No. 7042030020 so that we can publish share time on our website.&nbsp;</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">7:15 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">8:00 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 14 M</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">9:45 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 14 -15 B</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">9:45 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 15 p</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">10:30 AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 16 P</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 16 M</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREET NO 16 B</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;AM</a>                                    "
         },
         {
           "_styles": {
