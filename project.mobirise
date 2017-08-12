@@ -136,13 +136,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#b8312f"
+              "color": "#41a85f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#b8312f"
+              "background-color": "#41a85f"
             },
             ".link, .dropdown-item": {
-              "color": "#b8312f"
+              "color": "#41a85f"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -163,7 +163,7 @@
               "background": "#313131"
             },
             ".bg-color.transparent .link": {
-              "color": "#b8312f",
+              "color": "#41a85f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -185,7 +185,7 @@
             "bgColor": "#313131",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#b8312f",
+            "fontColor": "#41a85f",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -454,7 +454,7 @@
             "bgColor": "#313131",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#b8312f",
+            "fontColor": "#41a85f",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -683,7 +683,7 @@
             "bgColor": "#313131",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#b8312f",
+            "fontColor": "#41a85f",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -910,7 +910,7 @@
             "bgColor": "#313131",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#b8312f",
+            "fontColor": "#41a85f",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1135,7 +1135,7 @@
             "bgColor": "#313131",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#b8312f",
+            "fontColor": "#41a85f",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1340,7 +1340,7 @@
             "bgColor": "#313131",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#b8312f",
+            "fontColor": "#41a85f",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1638,7 +1638,7 @@
             "bgColor": "#313131",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#b8312f",
+            "fontColor": "#41a85f",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
