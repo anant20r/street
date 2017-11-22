@@ -43,6 +43,15 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "right",
+              "color": "#28324e"
+            }
+          },
           "_anchor": "msg-box4-1o",
           "_params": {
             "imageSize": "41",
@@ -89,16 +98,7 @@
           },
           "title": "WE CAN NOT MAKE SIMPLE LIFE WITHOUT YOU.",
           "text": "<p><b>WATER TIMING  Information we will share with you,Water timing could be effect any reason. Please share water timing on below mention whatsapp no. so that we can publish the same and share you feedback also</b>.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"Information\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>Click For Water Times</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "30px"
-            },
-            "P": {
-              "text-align": "right",
-              "color": "#28324e"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"Information\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>Click For Water Times</a>"
         },
         {
           "_styles": {
@@ -210,7 +210,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Globle Streets</a>",
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Globel Streets</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOPE\">HOPE THE HELPING HANDS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Members\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span>JOIN US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Feedback\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span>FEEDBACK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
